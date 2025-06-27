@@ -1,6 +1,7 @@
 # 🎓 School Management System (Java Console Application)
 
 This is a basic school management system developed using Java. It allows managing students, teachers, administrators, subjects, and exams using object-oriented programming concepts.
+![image](https://github.com/user-attachments/assets/d82abbbd-0785-48f0-aae2-0eee46626d04)
 
 ---
 
